@@ -1,0 +1,2 @@
+# ProjectFastApi
+FastApi, SQLalqchmy, PostgreSQL
